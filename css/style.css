@@ -1,0 +1,273 @@
+@font-face {
+    font-family: 'Hand Of Sean (Demo)';
+    src: url('../font/stylesheet.css');
+    src: url('../font/HandOfSeanDemo.eot') format('embedded-opentype'),
+        url('../font/HandOfSeanDemo.woff2') format('woff2'),
+        url('../font/HandOfSeanDemo.woff') format('woff'),
+        url('../font/HandOfSeanDemo.ttf') format('truetype'),
+        url('../font/HandOfSeanDemo.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+.top-strip{
+    background-color: #00a6f0;
+}
+.social{
+    padding: 10px 0px;
+    color: #fff;
+}
+.social span{
+
+}
+.admission{
+    padding: 10px 0px;
+}
+.admission span{
+    padding-left: 350px;
+}
+.admission button{
+    padding: 0px 1px;
+    border-radius: 10px;
+    background-color: #ffa73b;
+}
+.admission button:first-child{
+    padding: 5px 10px;
+}
+.admission button:last-child{
+    padding: 5px 10px;
+}
+.menu{
+ margin-top: 30px;
+ margin-bottom: 30px; 
+ padding-left: 40px;
+ padding-right: 40px;
+}
+.menu span{
+    padding: 10px;
+    border-right: 1px solid grey;
+}
+.menu-bg{
+    background-image: url("../images/menu-bg.png");
+    height: 40px;
+}
+.banner{
+    position: relative;
+}
+.banner_cnt{
+    position: absolute;
+    top: 20%;
+    right: 15%;
+}
+.banner_cnt h1{
+    color: red;
+    font-size: 50px;
+}
+.banner_cnt h3{
+    font-size: 25px;
+}
+.banner_cnt button{
+    padding: 5px 10px;
+    background-color:#ffa73b;
+    border-radius: 10px; 
+    margin: 1px;
+}
+.play{
+    position: absolute;
+    top: 20%;
+    left: 58%;
+}
+.play h1{
+    color: red;
+    font-size: 65px;
+}
+.play h4{
+    padding-left: 200px;
+    font-size: 20px;
+}
+.play button{
+    font-style: inherit;
+    padding: 5px 10px;
+    background-color:#ffa73b;
+    border-radius: 10px; 
+    margin: 1px;
+}
+.chooseclass{
+    text-align: center;
+}
+.preschool{
+    background-color: green;
+    padding: 10px 0px;
+    border-radius: 50%;
+    margin-right: 15px;
+    width: 200px;
+    height: 150px;
+
+}
+.nursery{
+    background-color: red;
+    padding: 10px 0px;
+    border-radius: 100px;
+    margin-left: 30px;
+    width: 200px;
+    height: 150px;
+}
+.juniorkg{
+    background-color: blueviolet;
+    padding: 10px 0px;
+    border-radius: 100px;
+    margin-left: 60px;
+    width: 200px;
+    height: 150px;
+}
+.seniorkg{
+    background-color: orange;
+    padding: 10px 0px;
+    border-radius: 100px;
+    margin-left: 90px;
+    width: 200px;
+    height: 150px;
+}
+.daycare{
+    background-color: pink;
+    padding: 10px 0px;
+    border-radius: 100px;
+    margin-left: 120px;
+    width: 200px;
+    height: 150px;
+}
+.kids_love{
+    text-align: center;
+}
+.kids_love button{
+    font-style: inherit;
+    padding: 5px 10px;
+    background-color:red;
+    border-radius: 10px; 
+    margin: 1px;
+}
+.bg-image{
+    position: relative;
+}
+.noticeboard{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
+.special_feature{
+    background-image: url(../images/overall-bg.jpg);
+}
+.featurecontent{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.varanalaya{
+    padding: 10px;
+}
+.vara_nalaya{
+    border-right: 5px solid brown;
+}
+.varanalayadrawing{
+    text-align: center;
+}
+.abacus{
+    padding: 10px;
+}
+.aba_cus{
+    border-right: 5px solid brown ;
+}
+.learning{
+    padding: 10px;
+}
+.lear_ning{
+    border-right: 5px solid brown;
+}
+.handwritting{
+    padding: 10px;
+}
+.hand_writting{
+    border-right: 5px solid brown;
+}
+.phonetics{
+    padding: 10px;
+}
+.phone_tics{
+    border-right: 5px solid brown;
+}
+.summer{
+    padding: 10px;
+}
+.sum_mer{
+    border-right: 5px solid brown;
+}
+.our_section{
+    background-image: url(../images/redbg.png);
+    padding: 70px;
+    max-width: 100%;
+}
+.teachers{
+    text-align: center;
+}
+.teacherimage1{
+    margin: 10px;
+    border-radius: 5px;
+    width: 160px;
+    height: 140px;
+}
+.teacherimage2{
+    margin: 10px;
+    border-radius: 5px;
+    width: 160px;
+    height: 140px;
+}
+.teacherimage3{
+    margin: 10px;
+    border-radius: 5px;
+    width: 160px;
+    height: 140px;
+}
+
+.parentsay button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #ffa73b;
+}
+.parentimage{
+    border-radius: 100px;
+    width: 150px;
+    height: 160px;
+}
+.child_class{
+    background-image: url(../images/bluebg.png);
+    padding: 50px;
+    max-width: 100%;
+}
+.child_class button{
+    padding: 15px 30px;
+    border-radius: 15px;
+    background-color: #ffa73b;
+}
+.your_child{
+    color: #fff;
+}
+.copy_path p{
+    position: relative;
+    top: 100px;
+    left: 20%;
+}
+.path_creative p{
+    position: relative;
+    top: 100px;
+    left: 20%;
+}
+.our_location img{
+    position: relative;
+    top: 100px;
+    right: 25%wal;
+}
+.footerbg{
+    background-image: url("../images/footer-bg.png");
+    background-repeat: repeat-x;
+    height: 85px;
+}
